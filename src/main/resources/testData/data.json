@@ -1,0 +1,67 @@
+{
+  "countries": [
+    {
+      "name":"KSA",
+      "LITE":[
+        {
+          "price":"15",
+          "currency":"SAR/month"
+        }
+      ],
+      "CLASSIC":[
+        {
+          "price":"25",
+          "currency":"SAR/month"
+        }
+      ],
+      "PREMIUM":[
+        {
+          "price":"60",
+          "currency":"SAR/month"
+        }
+      ]
+    },
+    {
+      "name":"Bahrain",
+      "LITE":[
+        {
+          "price": "2",
+          "currency": "BHD/month"
+        }
+      ],
+      "CLASSIC": [
+        {
+          "price": "3",
+          "currency": "BHD/month"
+        }
+      ],
+      "PREMIUM": [
+        {
+          "price": "6",
+          "currency": "BHD/month"
+        }
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "LITE": [
+        {
+          "price": "1.2",
+          "currency": "KWD/month"
+        }
+      ],
+      "CLASSIC": [
+        {
+          "price": "2.5",
+          "currency": "KWD/month"
+        }
+      ],
+      "PREMIUM": [
+        {
+          "price": "4.8",
+          "currency": "KWD/month"
+        }
+      ]
+    }
+  ]
+}
